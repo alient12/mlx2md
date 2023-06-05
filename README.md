@@ -1,5 +1,7 @@
 <h1>MATLAB <code>.mlx</code> to Markdown <code>.md</code> Converter</h1>
 
+[![PyPI](https://img.shields.io/pypi/v/mlx2md?color=blue&label=PyPi&style=plastic)](https://pypi.org/project/mlx2md/)
+
 <h2>Installation</h2>
 
 ```
@@ -327,10 +329,10 @@ Continuous-time transfer function.
 
 ```
 
-![f2f9fc6b-fe2d-4f3d-8e79-70d7d3815b4f.png](resources/f2f9fc6b-fe2d-4f3d-8e79-70d7d3815b4f.png)
+![f2f9fc6b-fe2d-4f3d-8e79-70d7d3815b4f.png](https://github.com/alient12/mlx2md/blob/master/resources/f2f9fc6b-fe2d-4f3d-8e79-70d7d3815b4f.png)
 
 
-![008281e5-ffe8-4a76-96dc-74eab0b4808b.png](resources/008281e5-ffe8-4a76-96dc-74eab0b4808b.png)
+![008281e5-ffe8-4a76-96dc-74eab0b4808b.png](https://github.com/alient12/mlx2md/blob/master/resources/008281e5-ffe8-4a76-96dc-74eab0b4808b.png)
 
 **k_new** *(1x5) double*:
 
