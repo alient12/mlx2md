@@ -6,7 +6,7 @@ def readme():
 
 setup(
     name='mlx2md',
-    version='0.1.3',    
+    version='0.1.4',    
     description='Matlab mlx to Markdown format converter',
     url='https://github.com/alient12/mlx2md',
     author='Ali Entezari',
